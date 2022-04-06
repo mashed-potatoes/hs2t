@@ -1,9 +1,9 @@
 # hs2t
-Proprietary HiSilicon research tool lol
+~~Proprietary~~ (Now public!) HiSilicon research tool.
 
 ![pro](./proscreen.png)
 
-Tested on EMUI 8, may not work on newer firmwares.
+Tested on EMUI 8, should not work on newer firmwares.
 
 ```
 USAGE:
@@ -25,8 +25,6 @@ COMMANDS:
 ```
 
 Unlocked FBLOCK is required.
-
-Btw, assembly was obfuscated with ASAF to protect code from PrO gSm ToOlS. Actually, dotPeek shows some raw strings, but who cares.
 
 Have a fun.
 
